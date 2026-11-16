@@ -511,14 +511,4 @@ Try answering these questions without referring to the notes.
 
 ---
 
-## Learning Note
 
-**Topic:** Python Syntax and Indentation
-
-**Status:** To be completed
-
-**Practical exercises:** To be completed
-
-**Doubt clarification:** Pending
-
-**Next topic:** Python Variables and Constants
